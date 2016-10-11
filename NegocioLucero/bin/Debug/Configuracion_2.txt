@@ -1,1 +1,1 @@
-localhost;3306;prueba;root;Master
+localhost;3306;prueba;admin;admin

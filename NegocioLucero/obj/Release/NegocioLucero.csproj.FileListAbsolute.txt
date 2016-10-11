@@ -26,3 +26,31 @@ C:\Users\Master\Documents\Visual Studio 2013\Projects\NegocioLucero\NegocioLucer
 C:\Users\Master\documents\visual studio 2013\Projects\NegocioLucero\NegocioLucero\obj\Release\NegocioLucero.csprojResolveAssemblyReference.cache
 C:\Users\Master\documents\visual studio 2013\Projects\NegocioLucero\NegocioLucero\obj\Release\NegocioLucero.FormsAdmin.BuscarFactura.resources
 C:\Users\Master\documents\visual studio 2013\Projects\NegocioLucero\NegocioLucero\obj\Release\NegocioLucero.FormsAdmin.ReporteGanancias.resources
+D:\Proyectos\NegocioLucero\NegocioLucero\bin\Release\NegocioLucero.exe.config
+D:\Proyectos\NegocioLucero\NegocioLucero\obj\Release\NegocioLucero.exe
+D:\Proyectos\NegocioLucero\NegocioLucero\obj\Release\NegocioLucero.pdb
+D:\Proyectos\NegocioLucero\NegocioLucero\bin\Release\NegocioLucero.exe
+D:\Proyectos\NegocioLucero\NegocioLucero\bin\Release\NegocioLucero.pdb
+D:\Proyectos\NegocioLucero\NegocioLucero\obj\Release\NegocioLucero.csprojResolveAssemblyReference.cache
+D:\Proyectos\NegocioLucero\NegocioLucero\obj\Release\NegocioLucero.Form1.resources
+D:\Proyectos\NegocioLucero\NegocioLucero\obj\Release\NegocioLucero.FormImagen.resources
+D:\Proyectos\NegocioLucero\NegocioLucero\obj\Release\NegocioLucero.FormsAdmin.Actualizar_Estado_Factura.resources
+D:\Proyectos\NegocioLucero\NegocioLucero\obj\Release\NegocioLucero.FormsAdmin.Actualizar_Estado_Pedido.resources
+D:\Proyectos\NegocioLucero\NegocioLucero\obj\Release\NegocioLucero.FormsAdmin.Actualizar_Tipo_Unidad.resources
+D:\Proyectos\NegocioLucero\NegocioLucero\obj\Release\NegocioLucero.FormsAdmin.Actualizar_Tipo_Usuario.resources
+D:\Proyectos\NegocioLucero\NegocioLucero\obj\Release\NegocioLucero.FormsAdmin.Actualizar_Usuario.resources
+D:\Proyectos\NegocioLucero\NegocioLucero\obj\Release\NegocioLucero.FormsAdmin.BuscarFactura.resources
+D:\Proyectos\NegocioLucero\NegocioLucero\obj\Release\NegocioLucero.FormsAdmin.Factura.resources
+D:\Proyectos\NegocioLucero\NegocioLucero\obj\Release\NegocioLucero.FormsAdmin.FormularioCategoria.resources
+D:\Proyectos\NegocioLucero\NegocioLucero\obj\Release\NegocioLucero.FormsAdmin.FormularioEstadoFactura.resources
+D:\Proyectos\NegocioLucero\NegocioLucero\obj\Release\NegocioLucero.FormsAdmin.FormularioEstadoPedido.resources
+D:\Proyectos\NegocioLucero\NegocioLucero\obj\Release\NegocioLucero.FormsAdmin.FormularioEstadoProducto.resources
+D:\Proyectos\NegocioLucero\NegocioLucero\obj\Release\NegocioLucero.FormsAdmin.Formularioproductos.resources
+D:\Proyectos\NegocioLucero\NegocioLucero\obj\Release\NegocioLucero.FormsAdmin.FormularioTipoLocacion.resources
+D:\Proyectos\NegocioLucero\NegocioLucero\obj\Release\NegocioLucero.FormsAdmin.FormularioTipoUnidad.resources
+D:\Proyectos\NegocioLucero\NegocioLucero\obj\Release\NegocioLucero.FormsAdmin.FormularioTipoUsuario.resources
+D:\Proyectos\NegocioLucero\NegocioLucero\obj\Release\NegocioLucero.FormsAdmin.FormularioUsuarios.resources
+D:\Proyectos\NegocioLucero\NegocioLucero\obj\Release\NegocioLucero.FormsAdmin.ReporteGanancias.resources
+D:\Proyectos\NegocioLucero\NegocioLucero\obj\Release\NegocioLucero.Principal.resources
+D:\Proyectos\NegocioLucero\NegocioLucero\obj\Release\NegocioLucero.Properties.Resources.resources
+D:\Proyectos\NegocioLucero\NegocioLucero\obj\Release\NegocioLucero.csproj.GenerateResource.Cache
