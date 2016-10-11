@@ -1,0 +1,308 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1F6E390D-0E9C-4D18-AFC2-CE6BFE91D97D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>NegocioLucero</RootNamespace>
+    <AssemblyName>NegocioLucero</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="MySql.Data, Version=6.9.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Carrito.cs" />
+    <Compile Include="Conexion.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FacturaGenerada.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FacturaGenerada.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormImagen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormImagen.Designer.cs">
+      <DependentUpon>FormImagen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormsAdmin\Actualizar_Estado_Factura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormsAdmin\Actualizar_Estado_Factura.designer.cs">
+      <DependentUpon>Actualizar_Estado_Factura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormsAdmin\Actualizar_Estado_Pedido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormsAdmin\Actualizar_Estado_Pedido.designer.cs">
+      <DependentUpon>Actualizar_Estado_Pedido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormsAdmin\Actualizar_Tipo_Unidad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormsAdmin\Actualizar_Tipo_Unidad.designer.cs">
+      <DependentUpon>Actualizar_Tipo_Unidad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormsAdmin\Actualizar_Tipo_Usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormsAdmin\Actualizar_Tipo_Usuario.designer.cs">
+      <DependentUpon>Actualizar_Tipo_Usuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormsAdmin\Actualizar_Usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormsAdmin\Actualizar_Usuario.designer.cs">
+      <DependentUpon>Actualizar_Usuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormsAdmin\BuscarFactura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormsAdmin\BuscarFactura.Designer.cs">
+      <DependentUpon>BuscarFactura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormsAdmin\Factura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormsAdmin\Factura.Designer.cs">
+      <DependentUpon>Factura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormsAdmin\FormularioCategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormsAdmin\FormularioCategoria.Designer.cs">
+      <DependentUpon>FormularioCategoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormsAdmin\FormularioEstadoFactura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormsAdmin\FormularioEstadoFactura.designer.cs">
+      <DependentUpon>FormularioEstadoFactura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormsAdmin\FormularioEstadoPedido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormsAdmin\FormularioEstadoPedido.designer.cs">
+      <DependentUpon>FormularioEstadoPedido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormsAdmin\FormularioEstadoProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormsAdmin\FormularioEstadoProducto.designer.cs">
+      <DependentUpon>FormularioEstadoProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormsAdmin\FormularioProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormsAdmin\FormularioProductos.Designer.cs">
+      <DependentUpon>FormularioProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormsAdmin\FormularioTipoLocacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormsAdmin\FormularioTipoLocacion.designer.cs">
+      <DependentUpon>FormularioTipoLocacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormsAdmin\FormularioTipoUnidad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormsAdmin\FormularioTipoUnidad.designer.cs">
+      <DependentUpon>FormularioTipoUnidad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormsAdmin\FormularioTipoUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormsAdmin\FormularioTipoUsuario.designer.cs">
+      <DependentUpon>FormularioTipoUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormsAdmin\FormularioUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormsAdmin\FormularioUsuarios.designer.cs">
+      <DependentUpon>FormularioUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormsAdmin\ReporteGanancias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormsAdmin\ReporteGanancias.Designer.cs">
+      <DependentUpon>ReporteGanancias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OperacionesFormulario.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal.Designer.cs">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Producto.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="pruebaDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>pruebaDataSet.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FacturaGenerada.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FacturaGenerada.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormImagen.resx">
+      <DependentUpon>FormImagen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormsAdmin\Actualizar_Estado_Factura.resx">
+      <DependentUpon>Actualizar_Estado_Factura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormsAdmin\Actualizar_Estado_Pedido.resx">
+      <DependentUpon>Actualizar_Estado_Pedido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormsAdmin\Actualizar_Tipo_Unidad.resx">
+      <DependentUpon>Actualizar_Tipo_Unidad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormsAdmin\Actualizar_Tipo_Usuario.resx">
+      <DependentUpon>Actualizar_Tipo_Usuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormsAdmin\Actualizar_Usuario.resx">
+      <DependentUpon>Actualizar_Usuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormsAdmin\BuscarFactura.resx">
+      <DependentUpon>BuscarFactura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormsAdmin\Factura.resx">
+      <DependentUpon>Factura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormsAdmin\FormularioCategoria.resx">
+      <DependentUpon>FormularioCategoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormsAdmin\FormularioEstadoFactura.resx">
+      <DependentUpon>FormularioEstadoFactura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormsAdmin\FormularioEstadoPedido.resx">
+      <DependentUpon>FormularioEstadoPedido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormsAdmin\FormularioEstadoProducto.resx">
+      <DependentUpon>FormularioEstadoProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormsAdmin\FormularioProductos.resx">
+      <DependentUpon>FormularioProductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormsAdmin\FormularioTipoLocacion.resx">
+      <DependentUpon>FormularioTipoLocacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormsAdmin\FormularioTipoUnidad.resx">
+      <DependentUpon>FormularioTipoUnidad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormsAdmin\FormularioTipoUsuario.resx">
+      <DependentUpon>FormularioTipoUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormsAdmin\FormularioUsuarios.resx">
+      <DependentUpon>FormularioUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormsAdmin\ReporteGanancias.resx">
+      <DependentUpon>ReporteGanancias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal.resx">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pruebaDataSet.xsc">
+      <DependentUpon>pruebaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="pruebaDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>pruebaDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="pruebaDataSet.xss">
+      <DependentUpon>pruebaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\Heisenberg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

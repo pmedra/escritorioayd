@@ -1,0 +1,79 @@
+c:\users\master\documents\visual studio 2013\Projects\NegocioLucero\NegocioLucero\bin\Debug\NegocioLucero.exe.config
+c:\users\master\documents\visual studio 2013\Projects\NegocioLucero\NegocioLucero\bin\Debug\NegocioLucero.exe
+c:\users\master\documents\visual studio 2013\Projects\NegocioLucero\NegocioLucero\bin\Debug\NegocioLucero.pdb
+c:\users\master\documents\visual studio 2013\Projects\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.Form1.resources
+c:\users\master\documents\visual studio 2013\Projects\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.Properties.Resources.resources
+c:\users\master\documents\visual studio 2013\Projects\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.csproj.GenerateResource.Cache
+c:\users\master\documents\visual studio 2013\Projects\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.exe
+c:\users\master\documents\visual studio 2013\Projects\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.pdb
+c:\users\master\documents\visual studio 2013\Projects\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.csprojResolveAssemblyReference.cache
+c:\users\master\documents\visual studio 2013\Projects\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.Principal.resources
+C:\Users\Master\Documents\Visual Studio 2013\Projects\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.FormularioUsuarios.resources
+C:\Users\Master\Documents\Visual Studio 2013\Projects\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.FormularioProductos.resources
+C:\Users\Master\Documents\Visual Studio 2013\Projects\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.FormularioCategoria.resources
+C:\Users\Master\documents\visual studio 2013\Projects\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormImagen.resources
+C:\Users\Master\documents\visual studio 2013\Projects\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.Actualizar_Estado_Factura.resources
+C:\Users\Master\documents\visual studio 2013\Projects\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.Actualizar_Estado_Pedido.resources
+C:\Users\Master\documents\visual studio 2013\Projects\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.Actualizar_Tipo_Unidad.resources
+C:\Users\Master\documents\visual studio 2013\Projects\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.Actualizar_Tipo_Usuario.resources
+C:\Users\Master\documents\visual studio 2013\Projects\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.Actualizar_Usuario.resources
+C:\Users\Master\documents\visual studio 2013\Projects\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.FormularioEstadoFactura.resources
+C:\Users\Master\documents\visual studio 2013\Projects\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.FormularioEstadoPedido.resources
+C:\Users\Master\documents\visual studio 2013\Projects\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.FormularioEstadoProducto.resources
+C:\Users\Master\documents\visual studio 2013\Projects\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.FormularioTipoLocacion.resources
+C:\Users\Master\documents\visual studio 2013\Projects\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.FormularioTipoUnidad.resources
+C:\Users\Master\documents\visual studio 2013\Projects\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.FormularioTipoUsuario.resources
+C:\Users\Lor3ntZ\Desktop\kurwa\ultimo\NegocioLucero\NegocioLucero\bin\Debug\NegocioLucero.exe.config
+C:\Users\Lor3ntZ\Desktop\kurwa\ultimo\NegocioLucero\NegocioLucero\bin\Debug\NegocioLucero.exe
+C:\Users\Lor3ntZ\Desktop\kurwa\ultimo\NegocioLucero\NegocioLucero\bin\Debug\NegocioLucero.pdb
+C:\Users\Lor3ntZ\Desktop\kurwa\ultimo\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.Form1.resources
+C:\Users\Lor3ntZ\Desktop\kurwa\ultimo\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormImagen.resources
+C:\Users\Lor3ntZ\Desktop\kurwa\ultimo\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.Actualizar_Estado_Factura.resources
+C:\Users\Lor3ntZ\Desktop\kurwa\ultimo\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.Actualizar_Estado_Pedido.resources
+C:\Users\Lor3ntZ\Desktop\kurwa\ultimo\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.Actualizar_Tipo_Unidad.resources
+C:\Users\Lor3ntZ\Desktop\kurwa\ultimo\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.Actualizar_Tipo_Usuario.resources
+C:\Users\Lor3ntZ\Desktop\kurwa\ultimo\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.Actualizar_Usuario.resources
+C:\Users\Lor3ntZ\Desktop\kurwa\ultimo\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.Factura.resources
+C:\Users\Lor3ntZ\Desktop\kurwa\ultimo\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.FormularioCategoria.resources
+C:\Users\Lor3ntZ\Desktop\kurwa\ultimo\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.FormularioEstadoFactura.resources
+C:\Users\Lor3ntZ\Desktop\kurwa\ultimo\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.FormularioEstadoPedido.resources
+C:\Users\Lor3ntZ\Desktop\kurwa\ultimo\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.FormularioEstadoProducto.resources
+C:\Users\Lor3ntZ\Desktop\kurwa\ultimo\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.Formularioproductos.resources
+C:\Users\Lor3ntZ\Desktop\kurwa\ultimo\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.FormularioTipoLocacion.resources
+C:\Users\Lor3ntZ\Desktop\kurwa\ultimo\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.FormularioTipoUnidad.resources
+C:\Users\Lor3ntZ\Desktop\kurwa\ultimo\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.FormularioTipoUsuario.resources
+C:\Users\Lor3ntZ\Desktop\kurwa\ultimo\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.FormularioUsuarios.resources
+C:\Users\Lor3ntZ\Desktop\kurwa\ultimo\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.Principal.resources
+C:\Users\Lor3ntZ\Desktop\kurwa\ultimo\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.Properties.Resources.resources
+C:\Users\Lor3ntZ\Desktop\kurwa\ultimo\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.csproj.GenerateResource.Cache
+C:\Users\Lor3ntZ\Desktop\kurwa\ultimo\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.exe
+C:\Users\Lor3ntZ\Desktop\kurwa\ultimo\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.pdb
+D:\recompilar\NegocioLucero\NegocioLucero\bin\Debug\NegocioLucero.exe.config
+D:\recompilar\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.exe
+D:\recompilar\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.pdb
+D:\recompilar\NegocioLucero\NegocioLucero\bin\Debug\NegocioLucero.exe
+D:\recompilar\NegocioLucero\NegocioLucero\bin\Debug\NegocioLucero.pdb
+D:\recompilar\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.csprojResolveAssemblyReference.cache
+D:\recompilar\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.Form1.resources
+D:\recompilar\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormImagen.resources
+D:\recompilar\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.Actualizar_Estado_Factura.resources
+D:\recompilar\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.Actualizar_Estado_Pedido.resources
+D:\recompilar\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.Actualizar_Tipo_Unidad.resources
+D:\recompilar\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.Actualizar_Tipo_Usuario.resources
+D:\recompilar\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.Actualizar_Usuario.resources
+D:\recompilar\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.Factura.resources
+D:\recompilar\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.FormularioCategoria.resources
+D:\recompilar\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.FormularioEstadoFactura.resources
+D:\recompilar\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.FormularioEstadoPedido.resources
+D:\recompilar\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.FormularioEstadoProducto.resources
+D:\recompilar\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.Formularioproductos.resources
+D:\recompilar\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.FormularioTipoLocacion.resources
+D:\recompilar\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.FormularioTipoUnidad.resources
+D:\recompilar\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.FormularioTipoUsuario.resources
+D:\recompilar\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.FormularioUsuarios.resources
+D:\recompilar\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.Principal.resources
+D:\recompilar\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.Properties.Resources.resources
+D:\recompilar\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.csproj.GenerateResource.Cache
+C:\Users\Master\Documents\Visual Studio 2013\Projects\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.Factura.resources
+C:\Users\Master\documents\visual studio 2013\Projects\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.BuscarFactura.resources
+C:\Users\Master\documents\visual studio 2013\Projects\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.ReporteGanancias.resources
