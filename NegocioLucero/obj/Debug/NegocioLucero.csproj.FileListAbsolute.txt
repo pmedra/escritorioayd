@@ -77,3 +77,6 @@ D:\recompilar\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.csproj.Generat
 C:\Users\Master\Documents\Visual Studio 2013\Projects\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.Factura.resources
 C:\Users\Master\documents\visual studio 2013\Projects\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.BuscarFactura.resources
 C:\Users\Master\documents\visual studio 2013\Projects\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.FormsAdmin.ReporteGanancias.resources
+D:\Proyectos\NegocioLucero\NegocioLucero\bin\Debug\NegocioLucero.exe.config
+D:\Proyectos\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.exe
+D:\Proyectos\NegocioLucero\NegocioLucero\obj\Debug\NegocioLucero.pdb

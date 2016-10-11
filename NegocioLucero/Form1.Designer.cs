@@ -87,10 +87,10 @@
             // lblDepositoAndrea
             // 
             this.lblDepositoAndrea.AutoSize = true;
-            this.lblDepositoAndrea.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblDepositoAndrea.Font = new System.Drawing.Font("Microsoft YaHei UI", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblDepositoAndrea.Location = new System.Drawing.Point(105, 41);
             this.lblDepositoAndrea.Name = "lblDepositoAndrea";
-            this.lblDepositoAndrea.Size = new System.Drawing.Size(194, 25);
+            this.lblDepositoAndrea.Size = new System.Drawing.Size(197, 26);
             this.lblDepositoAndrea.TabIndex = 5;
             this.lblDepositoAndrea.Text = " Depósito Andrea";
             // 
